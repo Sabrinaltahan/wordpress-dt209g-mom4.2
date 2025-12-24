@@ -62,5 +62,5 @@ Eftersom webbplatsen körs lokalt i en utvecklingsmiljö (localhost/MAMP) stöds
 **Sabrin Altahan**  
 
 ## User:
-Username:admin and password:admin123!
-Username:sabrin and password:sabrin123!
+Username:admin and Password:  ruOI7Lij#5
+Username:editor and Password: Mj6qAoq9D2DvPsu)HZ!e9O36
